@@ -1,1 +1,5 @@
 # Telegram-Bot
+
+A simple telegram bot that responds to user's commands. It has the capability of returning instant price of cryptocurrencies like Bitcoin. 
+
+You can use [this link](https://blog.pythonanywhere.com/148) to implement and automate your bot .
